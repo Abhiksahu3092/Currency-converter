@@ -1,0 +1,13 @@
+In this project we would focus on these given below points-
+1. To know about calling of API's
+2. To optimize our website for better performance
+3. we would learn about component reusability which has been the actual moto of using react as a framework
+4. creation of custom hooks in react
+
+Custom hooks-
+- In most cases these custom hooks return javascript so the hooks need to be named accordingly
+- Hooks are nothing but functions which returns a variable and a function reference
+- It is kind of standerdized rule that the for every hook name "use" prefix is always used.
+
+API call-
+- Bydefault when API is called the input we get is in form of string format so we need to convert it into a json file to properly read it for our use.
